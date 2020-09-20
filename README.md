@@ -1,4 +1,4 @@
-# Amazon-Gamer-Project
+# Amazon Gamer Project
 Componentes do projeto:
 Emilly Rafaele Pereira Arruda n°12,
 Eric Tiago Becil Lopes n°13,
