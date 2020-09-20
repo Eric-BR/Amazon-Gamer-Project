@@ -1,4 +1,4 @@
-![AmazonGamer](https://user-images.githubusercontent.com/60802498/93720727-dce65d80-fb58-11ea-8438-596fa2e77281.jpg)
+<p align="center">![AmazonGamer](https://user-images.githubusercontent.com/60802498/93720727-dce65d80-fb58-11ea-8438-596fa2e77281.jpg)</p>
 
 <p>Aplicativo mobile que auxilia na compra e venda de jogos e consoles de jogos eletrônicos.</p>
 
