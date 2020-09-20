@@ -2,7 +2,8 @@
 
 <p>Aplicativo mobile que auxilia na compra e venda de jogos e consoles de jogos eletrônicos.</p>
 
-Componentes do projeto:
+<h1>Autores</h1>
+
 Emilly Rafaele Pereira Arruda n°12,
 Eric Tiago Becil Lopes n°13,
 Fabiane Kelly Cota Freitas n°15,
