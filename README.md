@@ -1,4 +1,4 @@
-<h1>Projeto Amazon Gamer</h1>
+![AmazonGamer](https://user-images.githubusercontent.com/60802498/93720664-8bd66980-fb58-11ea-849c-1f853afb194c.jpg)
 
 <p>Aplicativo mobile que auxilia na compra e venda de jogos e consoles de jogos eletrônicos.</p>
 
