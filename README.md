@@ -1,4 +1,7 @@
-# Amazon Gamer Project
+<h1>Projeto Amazon Gamer</h1>
+
+<p>Aplicativo mobile que auxilia na compra e venda de jogos e consoles de jogos eletrônicos.</p>
+
 Componentes do projeto:
 Emilly Rafaele Pereira Arruda n°12,
 Eric Tiago Becil Lopes n°13,
