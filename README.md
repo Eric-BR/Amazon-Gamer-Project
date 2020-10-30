@@ -12,7 +12,7 @@
 
 <h1>Público alvo?</h1>
 
-<p>Pessoas, independente do gênero, com interesse no mundo dos jogos ou que gostariam de entrar nesse mundo e pagar um preço mais acessível em videogames.</p>
+<p>Pessoas, independente do gênero, com **interesse no mundo dos jogos** ou que gostariam de entrar nesse mundo e pagar um **preço mais acessível** em videogames ou jogos.</p>
 
 <h1>Quem faz parte da equipe?</h1>
 
@@ -26,9 +26,9 @@
 
 <h1>API</h1>
 
-<p>O ambiente de desenvolvimento que será utilizado será o Android Studio, visto que o nosso único foco agora é a programação para o sistema operacional android, devido ao simples fato de que é o SO mais utilizado quando se trata de celulares.</p>
+<p>O ambiente de desenvolvimento que será utilizado será o **Android Studio**, visto que o nosso único foco agora é a programação para o **sistema operacional android**, devido ao simples fato de que é o **Sistema Operacional mais utilizado** quando se trata de celulares.</p>
 
-<p>O app vai persistir os dados através do banco de dados Firebase.<p>
+<p>O app vai persistir os dados através do banco de dados **Firebase**.<p>
   
 <h1>Como instalar?</h1>
 
