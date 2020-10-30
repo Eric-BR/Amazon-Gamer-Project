@@ -1,12 +1,20 @@
 <h1>Projeto Amazon Gamer</h1>
 
+<h1>O que é?</h1>
+
 <p>Aplicativo mobile que auxilia na compra e venda de jogos e consoles de jogos eletrônicos.</p>
 
 <h1>Objetivo</h1>
 
 <p>O objetivo do projeto é desenvolver um aplicativo mobile para facilitar o processo de venda e trocas de jogos eletrônicos.</p>
 
-<h1>Autores</h1>
+<h1>Como baixar?</h1>
+
+<h1>Público alvo?</h1>
+
+<p>Pessoas, independente do gênero, com interesse no mundo dos jogos ou que gostariam de entrar nesse mundo e pagar um preço mais acessível em videogames.</p>
+
+<h1>Quem faz parte da equipe e quais são suas funções?</h1>
 
 <ul>
 <li>Emilly Rafaele Pereira Arruda n°12</li>
