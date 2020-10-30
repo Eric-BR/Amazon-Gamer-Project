@@ -14,7 +14,7 @@
 
 <p>Pessoas, independente do gênero, com interesse no mundo dos jogos ou que gostariam de entrar nesse mundo e pagar um preço mais acessível em videogames.</p>
 
-<h1>Quem faz parte da equipe e quais são suas funções?</h1>
+<h1>Quem faz parte da equipe?</h1>
 
 <ul>
 <li>Emilly Rafaele Pereira Arruda n°12</li>
@@ -29,3 +29,9 @@
 <p>O ambiente de desenvolvimento que será utilizado será o Android Studio, visto que o nosso único foco agora é a programação para o sistema operacional android, devido ao simples fato de que é o SO mais utilizado quando se trata de celulares.</p>
 
 <p>O app vai persistir os dados através do banco de dados Firebase.<p>
+  
+<h1>Como instalar?</h1>
+
+<h1>É código aberto? Como contribuir?</h1>
+
+<h1>O que preciso para gerar/buildar uma versão?</h1>
