@@ -17,11 +17,11 @@
 <h1>Quem faz parte da equipe?</h1>
 
 <ul>
-<li>Emilly Rafaele Pereira Arruda n°12</li>
-<li>Eric Tiago Becil Lopes n°13</li>
-<li>Fabiane Kelly Cota Freitas n°15</li>
-<li>Meily Cristini Frois Ribeiro Cavalcante n°27</li>
-<li>Pedro Gabriel Pinto Dias n°30</li>
+<li>Emilly Rafaele Pereira Arruda - Design</li>
+<li>Eric Tiago Becil Lopes - Programação</li>
+<li>Fabiane Kelly Cota Freitas - Gestão do Projeto e Programação</li>
+<li>Meily Cristini Frois Ribeiro Cavalcante - Design</li>
+<li>Pedro Gabriel Pinto Dias - Teste</li>
 </ul>
 
 <h1>API</h1>
