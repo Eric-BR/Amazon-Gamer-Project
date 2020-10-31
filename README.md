@@ -37,4 +37,6 @@
 
 <h1>É código aberto? Como contribuir?</h1>
 
+<p> [Você pode contribuir baixando o projeto diretamente do link do repostiório do projeto no github](https://github.com/Eric-BR/Amazon-Gamer-Project)</p>
+
 <h1>O que preciso para gerar/buildar uma versão?</h1>
