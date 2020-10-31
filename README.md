@@ -10,6 +10,8 @@
 
 <h1>Como baixar?</h1>
 
+<p>[Você pode baixar pelo link do repositório do projeto no github](https://github.com/Eric-BR/Amazon-Gamer-Project)</p>
+
 <h1>Público alvo?</h1>
 
 <p>Pessoas, independente do gênero, com **interesse no mundo dos jogos** ou que gostariam de entrar nesse mundo e pagar um **preço mais acessível** em videogames ou jogos.</p>
@@ -31,6 +33,7 @@
 <p>O app vai persistir os dados através do banco de dados **Firebase**.<p>
   
 <h1>Como instalar?</h1>
+<p>Você pode instalar após usar o link para baixar o projeto, baixando o projeto, você encontra um apk e faz a instalação.</p>
 
 <h1>É código aberto? Como contribuir?</h1>
 
